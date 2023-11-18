@@ -1,0 +1,36 @@
+CREATE DATABASE IF NOT EXISTS `DBNW`;
+
+USE `DBNW`;
+
+CREATE TABLE IF NOT EXISTS `UserInfo` (
+  `UserID` VARCHAR(255) NOT NULL,
+  `Surname` VARCHAR(255) NULL,
+  `Fornames` VARCHAR(255) NOT NULL,
+  `Title` VARCHAR(255) NOT NULL,
+  `Position` VARCHAR(255) NOT NULL,
+  `Phone` VARCHAR(13) NULL,
+  `Email` VARCHAR(255) NOT NULL,
+  `Location` VARCHAR(255) NOT NULL,
+  PRIMARY KEY (`UserID`),
+  UNIQUE INDEX `UserID_UNIQUE` (`UserID` ASC) VISIBLE
+) ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS `Login` (
+  `LoginID` VARCHAR(255) NOT NULL,
+  PRIMARY KEY (`LoginID`)
+) ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS `User-Login-Join` (
+  `UserID` VARCHAR(255) NULL,
+  `LoginID` VARCHAR(255) NOT NULL,
+  INDEX `fk_UserInfo_has_Login_Login1_idx` (`LoginID` ASC) VISIBLE,
+  INDEX `fk_UserInfo_has_Login_UserInfo_idx` (`UserID` ASC) VISIBLE,
+  CONSTRAINT `fk_UserInfo_has_Login_UserInfo`
+    FOREIGN KEY (`UserID`)
+    REFERENCES `DBNW`.`UserInfo` (`UserID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION
+) ENGINE = InnoDB;
+
+
+
