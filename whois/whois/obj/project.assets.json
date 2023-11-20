@@ -1790,11 +1790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/archie/Desktop/whois/whois/whois.csproj",
+      "projectUniqueName": "/Users/archie/UNI2/DBNW/whois/whois/whois.csproj",
       "projectName": "whois",
-      "projectPath": "/Users/archie/Desktop/whois/whois/whois.csproj",
+      "projectPath": "/Users/archie/UNI2/DBNW/whois/whois/whois.csproj",
       "packagesPath": "/Users/archie/.nuget/packages/",
-      "outputPath": "/Users/archie/Desktop/whois/whois/obj/",
+      "outputPath": "/Users/archie/UNI2/DBNW/whois/whois/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/archie/.nuget/NuGet/NuGet.Config"
