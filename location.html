@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+ <title>551457 Location lookup</title>
+ </head>
+ <body>
+ <H1>551457 Location lookup</h1>
+ You can use the forms below to test your network server by doing database lookups and updates.
+ <p>
+ <table border="1">
+ 
+ 
+
+ 
+ 
+<tr><th colspan=3>Lookup using standard get<tr><th>
+ <form action="http://localhost:43/" method="get">
+ <p>Username:</p> <input type="text" name="name"></input></p>
+ <p><input type="submit" value="OK"></input></p>
+ </form>
+ <td>
+ <pre>
+ &lt;form action="http://localhost:43/" method="get">
+ &lt;p>Username:&lt;/p> &lt;input type="text" name="name">&lt;/input>&lt;/p>
+ &lt;p>&lt;input type="submit" value="OK">&lt;/input>&lt;/p>
+ &lt;/form>
+ </pre>
+ <td><pre>
+GET /?name=cssbct HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: en-GB
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost:43
+DNT: 1
+Connection: Keep-Alive
+ </pre>
+
+ <tr><th colspan=3>Lookup using append script - generates a 400 error<tr><th>
+<!-- method: http://stackoverflow.com/questions/11811782/form-value-creates-a-url -->
+
+<form onSubmit="location.href= 'http://localhost:43/' + 
+   document.getElementById('url').value; return false;" 
+   method="get">
+Username: <input type="text" name="url" id="url"></input> 
+<input type="submit" value="go"></input>
+</form>
+<td>
+<pre>
+&lt;!-- method: http://stackoverflow.com/questions/11811782/form-value-creates-a-url -->
+
+&lt;form onSubmit="location.href= 'http://localhost:43/' + 
+   document.getElementById('url').value; return false;" 
+   method="get">
+Username: &lt;input type="text" name="url" id="url">&lt;/input> 
+&lt;input type="submit" value="go">&lt;/input>
+&lt;/form>
+</pre>
+<td><pre>
+GET /cssbct HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: en-GB
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost:43
+DNT: 1
+Connection: Keep-Alive
+</pre>
+
+ 
+
+
+  
+<tr><th colspan=3>Update using standard post<tr><th>
+ <form action="http://localhost:43/" method="post">
+<p>Username:</p> <input type="text" id="name" name="name"></input></p>
+<p>Location:</p> <input type="text" id=location" name="location"></input></p>
+<p><input type="submit"></input>
+</form>
+<td><pre>
+&lt;form action="http://localhost:43/" method="post">
+&lt;p>Username:&lt;/p> &lt;input type="text" id="name" name="name">&lt;/input>&lt;/p>
+&lt;p>Location:&lt;/p> &lt;input type="text" id=location" name="location">&lt;/input>&lt;/p>
+&lt;p>&lt;input type="submit">&lt;/input>
+&lt;/form>
+ </pre>
+ <td><pre>
+POST / HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: en-GB
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: localhost:43
+Content-Length: 29
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+name=cssbct&location=location
+ </pre>
+  
+
+
+
+</table>
+ </body>
+ </html>

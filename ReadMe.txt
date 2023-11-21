@@ -51,3 +51,9 @@ or
 If no command is entered, the static client will listen to "localhost:43".
 
 localhost will be able to lookup "location" & update fields of LoginID's.
+
+
+"location.html"(Brian Tompsett) provides an interface to make these queries.
+
+Queries may return an "EER_UNSAFE_PORT" error, which will require the user to change their browser settings to open port 43.
+
