@@ -5,13 +5,11 @@ using System.Threading;
 using System.Net;
 using System.Net.Sockets;
 using System.IO;
-using MySql.Data;
-using MySql.Data.MySqlClient;
 using whois;
-using Org.BouncyCastle.Cms;
 using System.Configuration;
 using System.Security.Cryptography.X509Certificates;
-using Org.BouncyCastle.Security;
+using MySqlConnector;
+
 
 
 namespace whois

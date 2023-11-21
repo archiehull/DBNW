@@ -78,3 +78,79 @@
 /Users/archie/UNI2/DBNW/whois/whois/obj/Debug/net7.0/whois.pdb
 /Users/archie/UNI2/DBNW/whois/whois/obj/Debug/net7.0/whois.genruntimeconfig.cache
 /Users/archie/UNI2/DBNW/whois/whois/obj/Debug/net7.0/ref/whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\whois.exe
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\whois.deps.json
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\whois.runtimeconfig.json
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\whois.pdb
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.AssemblyReference.cache
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.AssemblyInfoInputs.cache
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.AssemblyInfo.cs
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.CoreCompileInputs.cache
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.CopyComplete
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\refint\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.pdb
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\whois.genruntimeconfig.cache
+C:\Users\663073\OneDrive - hull.ac.uk\GitHub\DBNW\whois\whois\obj\Debug\net7.0\ref\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\whois.exe
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\whois.deps.json
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\whois.runtimeconfig.json
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\whois.pdb
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.AssemblyReference.cache
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.AssemblyInfoInputs.cache
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.AssemblyInfo.cs
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.CoreCompileInputs.cache
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.CopyComplete
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\refint\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.pdb
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\whois.genruntimeconfig.cache
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\obj\Debug\net7.0\ref\whois.dll
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\663073\OneDrive - hull.ac.uk\Desktop\DBNW\whois\whois\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\whois.exe
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\whois.deps.json
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\whois.runtimeconfig.json
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\whois.dll
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\whois.pdb
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\663073\DBNW\whois\whois\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.AssemblyReference.cache
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.AssemblyInfoInputs.cache
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.AssemblyInfo.cs
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.CoreCompileInputs.cache
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.csproj.CopyComplete
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.dll
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\refint\whois.dll
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.pdb
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\whois.genruntimeconfig.cache
+C:\Users\663073\DBNW\whois\whois\obj\Debug\net7.0\ref\whois.dll

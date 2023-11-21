@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MB43Frhy2Dv2HxBU5dUjIA+hrRWmAHk9gtacsqPfqgTft1VkVaw3ODRJeI0kivXL558wgvkEfd979szg4uCG5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\663073\\OneDrive - hull.ac.uk\\Desktop\\DBNW\\whois\\whois\\whois.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\663073\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\663073\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
+    "C:\\Users\\663073\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.14\\microsoft.netcore.app.runtime.win-x86.7.0.14.nupkg.sha512",
+    "C:\\Users\\663073\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.14.nupkg.sha512",
+    "C:\\Users\\663073\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.14\\microsoft.aspnetcore.app.runtime.win-x86.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

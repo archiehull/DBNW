@@ -5,15 +5,10 @@ using System.Threading;
 using System.Net;
 using System.Net.Sockets;
 using System.IO;
-using MySql.Data;
-using MySql.Data.MySqlClient;
-using Org.BouncyCastle.Cms;
 using System.Configuration;
 using System.Security.Cryptography.X509Certificates;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities.IO;
 using System.ComponentModel.DataAnnotations;
-
+using MySqlConnector;
 
 namespace whois;
 class Program
@@ -615,7 +610,8 @@ class Program
                 // Create a new thread for each connection to allow for multithreading
                 Thread thread = new Thread(() => initThread(connection));
                 thread.Start();
-                
+
+                Thread.Sleep(1000);
             }
         }
         catch (Exception e)
